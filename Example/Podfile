@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'jumpyButton_Example', :exclusive => true do
+  pod 'jumpyButton', :path => '../'
+end
+
+target 'jumpyButton_Tests', :exclusive => true do
+  pod 'jumpyButton', :path => '../'
+
+  
+end
