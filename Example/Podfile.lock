@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  jumpyButton: ca3d0a335334c2d969e39763816166ac3971e408
+  jumpyButton: 2fc761696ad1b4a3c697ff92bd6b8427bb7e5982
 
 COCOAPODS: 0.39.0

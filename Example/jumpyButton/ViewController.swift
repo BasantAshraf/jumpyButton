@@ -7,9 +7,18 @@
 //
 
 import UIKit
+import jumpyButton
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var jumpyButton: JumpyButton!
+    
+    
+    @IBAction func buttonClicked(sender: AnyObject) {
+        
+        jumpyButton.startJumpyButton()
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
