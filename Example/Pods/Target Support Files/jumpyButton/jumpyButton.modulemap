@@ -1,0 +1,6 @@
+framework module jumpyButton {
+  umbrella header "jumpyButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

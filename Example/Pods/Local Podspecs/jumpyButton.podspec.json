@@ -1,0 +1,25 @@
+{
+  "name": "jumpyButton",
+  "version": "0.1.0",
+  "summary": "A short description of jumpyButton.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/jumpyButton",
+  "license": "MIT",
+  "authors": {
+    "Basant Ashraf": "bassant.ashraf@ibtikar.net.sa"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/jumpyButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "jumpyButton": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

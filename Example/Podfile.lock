@@ -1,0 +1,14 @@
+PODS:
+  - jumpyButton (0.1.0)
+
+DEPENDENCIES:
+  - jumpyButton (from `../`)
+
+EXTERNAL SOURCES:
+  jumpyButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  jumpyButton: ca3d0a335334c2d969e39763816166ac3971e408
+
+COCOAPODS: 0.39.0

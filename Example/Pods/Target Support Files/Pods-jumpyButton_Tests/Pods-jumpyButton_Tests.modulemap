@@ -1,0 +1,6 @@
+framework module Pods_jumpyButton_Tests {
+  umbrella header "Pods-jumpyButton_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
