@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func buttonClicked(sender: AnyObject) {
-        
+        print("hello from myPod");
         jumpyButton.startJumpyButton()
         
     }
